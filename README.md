@@ -5,9 +5,9 @@ This paper explores the gravitational dynamics of international trade through th
 
 
 
-
+page 1
 <img width="981" alt="Captura de ecrã 2024-06-21, às 23 44 36" src="https://github.com/jnamora/Dashboard---Trade-Flows/assets/132017385/d2f89802-b5e0-4711-8ebd-26483dcc0828">
 
 
-
+page 2
 <img width="964" alt="Captura de ecrã 2024-06-21, às 23 45 09" src="https://github.com/jnamora/Dashboard---Trade-Flows/assets/132017385/9f250c61-3c4c-441b-a125-fc28bc010f41">
