@@ -3,4 +3,4 @@ Drawing inspiration from the cosmic dance of celestial bodies, where bigger bodi
 
 This paper explores the gravitational dynamics of international trade through the lens of the gravity equation, shedding light on its relevance for understanding the complexities of global commerce. By leveraging the analogy of celestial bodies and gravitational forces, we aim to visually depict a more nuanced interaction between economies and the underlying principles that shape their trade relationships.
 
-<img width="1668" alt="Captura de ecrã 2024-06-21, às 23 39 07" src="https://github.com/jnamora/Dashboard---Trade-Flows/assets/132017385/1995314c-c405-4df1-b6cf-5f2dcc06eb10">
+<img width="1673" alt="Captura de ecrã 2024-06-21, às 23 40 35" src="https://github.com/jnamora/Dashboard---Trade-Flows/assets/132017385/3eeb8ca9-8f43-4870-9221-fd6d7be30933">
